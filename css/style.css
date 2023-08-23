@@ -43,6 +43,7 @@
     background-color:#FFFFFF;
 }
 .heading_box{ 
+    padding-top: 15px;
     font-size: 50px;
     display:block;
     height: 70px;
